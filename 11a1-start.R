@@ -13,7 +13,7 @@ women
 
 ?AirPassengers
 data() # datasets available for use
-
+Nile
 library()  # libraries currently loaded
 
 ?mean  #help
