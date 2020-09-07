@@ -63,6 +63,7 @@ ceiling(x)
 seq(0,100,3)
 seq(to=100,from=0,by=3)
 seq(1,5,2)
+
 ?seq
 #[1]  0  2  4  6  8 10
 ls()  #variables in my environment
